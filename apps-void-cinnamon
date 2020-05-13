@@ -1,1 +1,1 @@
-sudo xbps-install -S kitty Thunar thunar-archive-plugin xz unzip plata-theme papirus-icon-theme firefox ufetch leafpad xinput libreoffice-writer libreoffice-i18n-en-GB xreader
+sudo xbps-install -S kitty Thunar thunar-archive-plugin xarchiver xz unzip plata-theme papirus-icon-theme firefox ufetch leafpad xinput libreoffice-writer libreoffice-i18n-en-GB xreader
